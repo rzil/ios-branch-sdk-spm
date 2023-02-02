@@ -13,6 +13,9 @@
 #import <UniformTypeIdentifiers/UniformTypeIdentifiers.h>
 #endif
 
+// Add missing headers
+#import "BNCNetworkInterface.h"
+
 #import "BNCCallbacks.h"
 #import "BNCCommerceEvent.h"
 #import "BNCConfig.h"
