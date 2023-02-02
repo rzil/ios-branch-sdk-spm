@@ -1,5 +1,8 @@
 Branch iOS SDK Change Log
 
+v.1.45.3
+- SDK-1741 Add missing headers
+
 v.1.45.2
 - SDK-1741 Fix SKAN error handling on iOS 15.4
 
